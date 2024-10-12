@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Liqun LI
 - 👀 I’m interested in learning new technologies and building systems
-- 🌱 I’m currently learning prompting LLMs for various interesting scenarios
+- 🌱 I’m currently prompting LLMs for various interesting scenarios
 - 💞️ I’m looking to collaborate on anything interesting projects
 - 📫 Please reach me via liqul (at) outlook.com
 
